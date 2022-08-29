@@ -31,6 +31,17 @@
         >
       </div>
     </nav>
+    
+{% if messages %} 
+    {% for message in messages %} 
+        {% if message.tags == "warning" %}
+            <div id="warning" class="message">{{ message }}</div>
+        {% else %}
+            <div id="success" class="message">{{ message }}</div>
+        {% endif %} 
+    {% endfor %} 
+{% endif %}
+
     {% block content %} {% endblock content %}
 
     <!-- JavaScript Bundle with Popper -->
