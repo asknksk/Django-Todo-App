@@ -68,8 +68,8 @@ $ git clone https://github.com/your-user-name/your-project-name
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- Website [Heroku Link](https://{https://asknksk-todo-app.herokuapp.com/})
+- GitHub [@asknksk](https://{github.com/asknksk/Django-Todo-App/})
 
-- Linkedin [@your-linkedin](https://{linkedin.com/your-username})
+- Linkedin [@your-linkedin](https://{www.linkedin.com/in/askin-kisik/})
 - Twitter [@your-twitter](https://{twitter.com/your-username})
