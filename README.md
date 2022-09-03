@@ -1,15 +1,11 @@
-<!-- Please update value in the {}  -->
 
 <h1 align="center">ToDo App</h1>
 
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-     | 
-    <a href="https://{your-url-to-the-solution}">
+    
+    <a href="https://{asknksk-todo-app.herokuapp.com}">
       Project
     </a>
  
@@ -31,7 +27,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot]()
 
 ### Built With
 
@@ -68,7 +64,7 @@ $ git clone https://github.com/your-user-name/your-project-name
 
 ## Contact
 
-- Website [Heroku Link](https://{https://asknksk-todo-app.herokuapp.com/})
-- GitHub [@asknksk](https://{github.com/asknksk/Django-Todo-App/})
+- Website [Heroku Link](https://asknksk-todo-app.herokuapp.com/)
+- GitHub [@asknksk](https://github.com/asknksk/Django-Todo-App/)
 
-- Linkedin [@your-linkedin](https://{www.linkedin.com/in/askin-kisik/})
+- Linkedin [@linkedin Link](https://www.linkedin.com/in/askin-kisik/)
