@@ -72,4 +72,3 @@ $ git clone https://github.com/your-user-name/your-project-name
 - GitHub [@asknksk](https://{github.com/asknksk/Django-Todo-App/})
 
 - Linkedin [@your-linkedin](https://{www.linkedin.com/in/askin-kisik/})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
