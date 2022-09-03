@@ -5,7 +5,7 @@
 <div align="center">
   <h3>
     
-    <a href="https://{asknksk-todo-app.herokuapp.com}">
+    <a href="https://asknksk-todo-app.herokuapp.com">
       Project
     </a>
  
